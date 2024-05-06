@@ -1,16 +1,32 @@
-### Hi there 👋
+# 👋 Hi, I’m Sarayu
+- 👀 I’m interested in unspecific eccentric stuff
+- 🌱 I’m currently learning B.tech - Computer Science Engineering
+- 💞️ I’m looking to collaborate on anything interesting.
+- 📫 Reach me through sarayu.parupalli@pec.edu
+<br>
+<a href="https://u8views.com/github/sarayuuu"><img src="https://u8views.com/api/v1/github/profiles/91971225/views/day-week-month-total-count.svg"></a>
+<br>
+<img align="centre" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarayuuu&theme=vision_friendly_dark"/>
+<img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarayuuu&theme=vision_friendly_dark&exclude=default"/>
+<img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarayuuu&theme=vision_friendly_dark"/>
+<br>
+<img align="centre" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarayuuu&theme=vision_friendly_dark&exclude=default"/>
 
-<!--
-**sarayuuu/sarayuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--img align="centre" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinbinu&layout=compact"/>
 
-Here are some ideas to get you started:
+<!---
+<img align="right" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> --->
+
+
+
+
+
+
+
+
+<!---
+Robinbinu/Robinbinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
